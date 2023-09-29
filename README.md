@@ -1,7 +1,7 @@
 
 		"- ⚡ Quick about me:":               "Hi, I'm Wallace a FullStack Developer",
 		"- 🔭 Education":                     "Program Starter-WebFullStack Developer at - Growdev",
-		"- 🌱 I’m currently learning":        "Javascript(My Favorite language), React, NodeJs, agile methods, relational and not relational database",
+		"- 🌱 I’m currently learning":        "React, NodeJs, agile methods,Javascript, relational database",
 		"- 👯 I’m looking to collaborate on": "amxx and React related projects",
 		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
 		"- 💬 Ask me about":                  "Music !!! I've been an instrumental musician for 14 years, bassist and passionate about reggae, jazz and music theory",
